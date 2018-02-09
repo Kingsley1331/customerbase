@@ -1,0 +1,67 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 36,
+      "companyId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Ada Lovelace",
+      "email": "ada@gmail.com",
+      "age": 38,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Grace Hopper",
+      "email": "grace@gmail.com",
+      "age": 30,
+      "companyId": "4"
+    },
+    {
+      "id": "5",
+      "name": "Emmy Noether",
+      "email": "emmy@gmail.com",
+      "age": 36,
+      "companyId": "3"
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "afEFYJp",
+      "companyId": "1"
+    },
+    {
+      "name": "Barry White",
+      "email": "Barry@gmail.com",
+      "age": 34,
+      "id": "a__mKUs"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Facebook",
+      "description": "social"
+    },
+    {
+      "id": "4",
+      "name": "Amazon",
+      "description": "retail"
+    }
+  ]
+}
